@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../JavaScript try/javascript-1"
+		},
+		{
+			"path": "../../JavaScript try/APICalling"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "APICalling"
+	}
+}
